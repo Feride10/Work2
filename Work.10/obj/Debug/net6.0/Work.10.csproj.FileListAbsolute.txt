@@ -1,0 +1,15 @@
+C:\Users\Feride\2 семинар\2 семинар\Work.10\bin\Debug\net6.0\Work.10.exe
+C:\Users\Feride\2 семинар\2 семинар\Work.10\bin\Debug\net6.0\Work.10.deps.json
+C:\Users\Feride\2 семинар\2 семинар\Work.10\bin\Debug\net6.0\Work.10.runtimeconfig.json
+C:\Users\Feride\2 семинар\2 семинар\Work.10\bin\Debug\net6.0\Work.10.dll
+C:\Users\Feride\2 семинар\2 семинар\Work.10\bin\Debug\net6.0\Work.10.pdb
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.csproj.AssemblyReference.cache
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.AssemblyInfoInputs.cache
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.AssemblyInfo.cs
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.csproj.CoreCompileInputs.cache
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.dll
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\refint\Work.10.dll
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.pdb
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\Work.10.genruntimeconfig.cache
+C:\Users\Feride\2 семинар\2 семинар\Work.10\obj\Debug\net6.0\ref\Work.10.dll
